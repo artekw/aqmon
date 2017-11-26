@@ -1,0 +1,9 @@
+.pioenvs
+.piolibdeps
+.vscode/c_cpp_properties.json
+src/config.h
+python/bin
+python/include
+python/lib
+python/lib64
+python/src/mqtt_listner.py

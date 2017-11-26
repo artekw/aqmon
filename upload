@@ -1,0 +1,1 @@
+~/programy/esptool/espota.py -i 192.168.88.204 -f .pioenvs/esp12e/firmware.bin
